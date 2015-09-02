@@ -19,6 +19,7 @@
 
 	<--Tips-->
 	Check that square is empty
+  
 =end
 
 player1 = "Player 1"
